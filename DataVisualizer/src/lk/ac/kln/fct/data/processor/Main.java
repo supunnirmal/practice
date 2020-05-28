@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import lk.ac.kln.fct.data.pojo.Record;
 
 public class Main {
-	private static final String FILE_PATH = "/Users/Supun/eclipse-workspace/DataVisualizer/src/covid-19-data.json";
+	private static final String FILE_PATH = "/Users/Supun/git/practice/DataVisualizer/src/covid-19-data.json";
 	private static final String DATE = "18/05/2020";
 	
 	public static void main(String[] args) {
