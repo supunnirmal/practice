@@ -1,10 +1,7 @@
 package lk.ac.kln.fct.learn.generics.core;
 
-//TODO use generics for the value.
-//You have to start changing the code from here.
 public class Entry<K,V> {
 	private K key;
-	//TODO use generics for the value.
 	private V value;
 	
 	public Entry(K key, V value) {
